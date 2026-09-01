@@ -1,0 +1,10 @@
+root: ./
+
+structure:
+  readme: ./README.md
+  chapters:
+    - title: Procedimentos
+      path: procedimentos/
+      chapters:
+        - title: Renovação de Contrato
+          path: procedimentos/renovacao.md
