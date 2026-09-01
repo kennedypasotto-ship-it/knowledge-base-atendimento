@@ -1,0 +1,19 @@
+{
+  "title": "Knowledge Base - Atendimento",
+  "description": "Base de conhecimento para atendentes de call center",
+  "author": "Atendimento",
+  "structure": {
+    "readme": "README.md",
+    "chapters": [
+      {
+        "title": "Procedimentos",
+        "chapters": [
+          {
+            "title": "Renovação de Contrato",
+            "path": "procedimentos/renovacao.md"
+          }
+        ]
+      }
+    ]
+  }
+}
